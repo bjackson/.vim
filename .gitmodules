@@ -1,0 +1,9 @@
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "bundle/wellsokai"]
+	path = bundle/wellsokai
+	url = https://github.com/wellsjo/wells-colorscheme.vim.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
